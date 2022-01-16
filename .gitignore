@@ -1,0 +1,4 @@
+.env
+__pycache__/
+Yur.session
+Yur.session-journal
