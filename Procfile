@@ -1,1 +1,1 @@
-Riz: python -m YurikoXSpam
+Yur: python -m YurikoXSpam
