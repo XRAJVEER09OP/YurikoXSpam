@@ -38,7 +38,7 @@ _set_bot () {
     sleep 5
     cd $YURPATH
     echo "  Starting.  YurikoXSpam "
-    echo "үυяιкσ x sραм"
+    echo "Yuriko 𝙓 SPAM"
 
     python3 ./setup/updater.py ./requirements.txt requirements.txt
     python3 -m YurikoXSpam
