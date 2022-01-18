@@ -39,19 +39,19 @@ p
     except Exception as e:
         pass
     try:
-        Yur.disconnect()
+        Yur4.disconnect()
     except Exception as e:
         pass
     try:
-        Yur.disconnect()
+        Yur5.disconnect()
     except Exception as e:
         pass
     try:
-        Yur.disconnect()
+        Yur6.disconnect()
     except Exception as e:
         pass
     try:
-        Yur.disconnect()
+        Yur7.disconnect()
     except Exception as e:
         pass
     try:

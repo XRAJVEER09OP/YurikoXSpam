@@ -1,7 +1,7 @@
 {
       "name": "Yuriko X Spam",
       "description": "MOST POWERFUL + STABLE SPAM USERBOTS",
-      "logo": "https://telegra.ph/file/f654fb00aa7f99791dd89.jpg",
+      "logo": "https://telegra.ph/file/82ab2e5b7b0ba54db83a8.jpg",
       "keywords": [
         "telegram",
         "telethon", 
@@ -11,7 +11,7 @@
       ],   
   "repository": "https://github.com/YurikoXSpam",
   "website": "https://github.com/YurikoXSpam",
-  "success_url": "https://t.me/XD_RAJVEER",
+  "success_url": "https://t.me/YurikoXSpam",
   "env": {
              "API_ID": {
         "description": "Fill Api ID Take this value from My.telegram.org",

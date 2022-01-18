@@ -39,151 +39,151 @@ p
     except Exception as e:
         pass
     try:
-        Yur4.disconnect()
+        Yur.disconnect()
     except Exception as e:
         pass
     try:
-        Yur5.disconnect()
+        Yur.disconnect()
     except Exception as e:
         pass
     try:
-        Yur6.disconnect()
+        Yur.disconnect()
     except Exception as e:
         pass
     try:
-        Yur7.disconnect()
+        Yur.disconnect()
     except Exception as e:
         pass
     try:
-        Yur8.disconnect()
+        Yur.disconnect()
     except Exception as e:
         pass
     try:
-        Yur9.disconnect()
+        Yur.disconnect()
     except Exception as e:
         pass
     try:
-        Yur10.disconnect()
+        Yur.disconnect()
     except Exception as e:
         pass
     try:
-        Yur11.disconnect()
+        Yur.disconnect()
     except Exception as e:
         pass
     try:
-        Yur12.disconnect()
+        Yur.disconnect()
     except Exception as e:
         pass
     try:
-        Yur13.disconnect()
+        Yur.disconnect()
     except Exception as e:
         pass
     try:
-        Yur14.disconnect()
+        Yur.disconnect()
     except Exception as e:
         pass
     try:
-        Yur15.disconnect()
+        Yur.disconnect()
     except Exception as e:
         pass
     try:
-        Yur16.disconnect()
+        Yur.disconnect()
     except Exception as e:
         pass
     try:
-        Yur17.disconnect()
+        Yur.disconnect()
     except Exception as e:
         pass
     try:
-        Yur18.disconnect()
+        Yur.disconnect()
     except Exception as e:
         pass
     try:
-        Yur19.disconnect()
+        Yur.disconnect()
     except Exception as e:
         pass
     try:
-        Yur20.disconnect()
+        Yur.disconnect()
     except Exception as e:
         pass
     try:
-        Yur21.disconnect()
+        Yur.disconnect()
     except Exception as e:
         pass
     try:
-        Yur22.disconnect()
+        Yur.disconnect()
     except Exception as e:
         pass
     try:
-        Yur23.disconnect()
+        Yur.disconnect()
     except Exception as e:
         pass
     try:
-        Yur24.disconnect()
+        Yur.disconnect()
     except Exception as e:
         pass
     try:
-        Yur25.disconnect()
+        Yur.disconnect()
     except Exception as e:
         pass
     try:
-        Yur26.disconnect()
+        Yur.disconnect()
     except Exception as e:
         pass
     try:
-        Yur27.disconnect()
+        Yur.disconnect()
     except Exception as e:
         pass
     try:
-        Yur28.disconnect()
+        Yur.disconnect()
     except Exception as e:
         pass
     try:
-        Yur29.disconnect()
+        Yur.disconnect()
     except Exception as e:
         pass
     try:
-        Yur30.disconnect()
+        Yur.disconnect()
     except Exception as e:
         pass
     try:
-        Yur31.disconnect()
+        Yur.disconnect()
     except Exception as e:
         pass
     try:
-        Yur32.disconnect()
+        Yur.disconnect()
     except Exception as e:
         pass
     try:
-        Yur33.disconnect()
+        Yur.disconnect()
     except Exception as e:
         pass
     try:
-        Yur34.disconnect()
+        Yur.disconnect()
     except Exception as e:
         pass
     try:
-        Yur35.disconnect()
+        Yur.disconnect()
     except Exception as e:
         pass
     try:
-        Yur36.disconnect()
+        Yur.disconnect()
     except Exception as e:
         pass
     try:
-        Yur37.disconnect()
+        Yur.disconnect()
     except Exception as e:
         pass
     try:
-        Yur38.disconnect()
+        Yur.disconnect()
     except Exception as e:
         pass
     try:
-        Yur39.disconnect()
+        Yur.disconnect()
     except Exception as e:
         pass
     try:
-        Yur40.disconnect()
+        Yur.disconnect()
     except Exception as e:
         pass
 else:
@@ -192,158 +192,158 @@ else:
     except Exception as e:
         pass
     try:
-        Yur2.run_until_disconnected()
+        Yur.run_until_disconnected()
     except Exception as e:
         pass
     try:
-        Yur3.run_until_disconnected()
+        Yur.run_until_disconnected()
     except Exception as e:
         pass
     try:
-        Yur4.run_until_disconnected()
+        Yur.run_until_disconnected()
     except Exception as e:
         pass
     try:
-        Yur5.run_until_disconnected()
+        Yur.run_until_disconnected()
     except Exception as e:
         pass
     try:
-        Yur6.run_until_disconnected()
+        Yur.run_until_disconnected()
     except Exception as e:
         pass
     try:
-        Yur7.run_until_disconnected()
+        Yur.run_until_disconnected()
     except Exception as e:
         pass
     try:
-        Yur8.run_until_disconnected()
+        Yur.run_until_disconnected()
     except Exception as e:
         pass
     try:
-        Yur9.run_until_disconnected()
+        Yur.run_until_disconnected()
     except Exception as e:
         pass
     try:
-        Yur10.run_until_disconnected()
+        Yur.run_until_disconnected()
     except Exception as e:
         pass
     try:
-        Yur11.run_until_disconnected()
+        Yur.run_until_disconnected()
     except Exception as e:
         pass
     try:
-        Yur12.run_until_disconnected()
+        Yur.run_until_disconnected()
     except Exception as e:
         pass
     try:
-        Yur13.run_until_disconnected()
+        Yur.run_until_disconnected()
     except Exception as e:
         pass
     try:
-        Yur14.run_until_disconnected()
+        Yur.run_until_disconnected()
     except Exception as e:
         pass
     try:
-        Yur15.run_until_disconnected()
+        Yur.run_until_disconnected()
     except Exception as e:
         pass
     try:
-        Yur16.run_until_disconnected()
+        Yur.run_until_disconnected()
     except Exception as e:
         pass
     try:
-        Yur17.run_until_disconnected()
+        Riz17.run_until_disconnected()
     except Exception as e:
         pass
     try:
-        Yur18.run_until_disconnected()
+        Yur.run_until_disconnected()
     except Exception as e:
         pass
     try:
-        Yur19.run_until_disconnected()
+        Yur.run_until_disconnected()
     except Exception as e:
         pass
     try:
-        Yur20.run_until_disconnected()
+        Yur.run_until_disconnected()
     except Exception as e:
         pass
     try:
-        Yur21.run_until_disconnected()
+        Yur.run_until_disconnected()
     except Exception as e:
         pass
     try:
-        Yur22.run_until_disconnected()
+        Yur.run_until_disconnected()
     except Exception as e:
         pass
     try:
-        Yur23.run_until_disconnected()
+        Yur.run_until_disconnected()
     except Exception as e:
         pass
     try:
-        Yur24.run_until_disconnected()
+        Yur.run_until_disconnected()
     except Exception as e:
         pass
     try:
-        Yur25.run_until_disconnected()
+        Yur.run_until_disconnected()
     except Exception as e:
         pass
     try:
-        Yur26.run_until_disconnected()
+        Yur.run_until_disconnected()
     except Exception as e:
         pass
     try:
-        Yur27.run_until_disconnected()
+        Yur.run_until_disconnected()
     except Exception as e:
         pass
     try:
-        Yur28.run_until_disconnected()
+        Yur.run_until_disconnected()
     except Exception as e:
         pass
     try:
-        Yur29.run_until_disconnected()
+        Yur.run_until_disconnected()
     except Exception as e:
         pass
     try:
-        Yur30.run_until_disconnected()
+        Yur.run_until_disconnected()
     except Exception as e:
         pass
     try:
-        Yur31.run_until_disconnected()
+        Yur.run_until_disconnected()
     except Exception as e:
         pass
     try:
-        Yur32.run_until_disconnected()
+        Yur.run_until_disconnected()
     except Exception as e:
         pass
     try:
-        Yur33.run_until_disconnected()
+        Yur.run_until_disconnected()
     except Exception as e:
         pass
     try:
-        Yur34.run_until_disconnected()
+        Yur.run_until_disconnected()
     except Exception as e:
         pass
     try:
-        Yur35.run_until_disconnected()
+        Yur.run_until_disconnected()
     except Exception as e:
         pass
     try:
-        Yur36.run_until_disconnected()
+        Yur.run_until_disconnected()
     except Exception as e:
         pass
     try:
-        Yur37.run_until_disconnected()
+        Yur.run_until_disconnected()
     except Exception as e:
         pass
     try:
-        Yur38.run_until_disconnected()
+        Yur.run_until_disconnected()
     except Exception as e:
         pass
     try:
-        Yur39.run_until_disconnected()
+        Yur.run_until_disconnected()
     except Exception as e:
         pass
     try:
-        Yur40.run_until_disconnected()
+        Yur.run_until_disconnected()
     except Exception as e:
         pass

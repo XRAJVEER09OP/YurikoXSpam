@@ -92,7 +92,7 @@ async def ping(e):
 
 # ALIVE
 
-YURI_PIC = ALIVE_PIC if ALIVE_PIC else "https://telegra.ph/file/5f119690b8ad57b0cae94.jpg"
+YURI_PIC = ALIVE_PIC if ALIVE_PIC else "https://telegra.ph/file/f654fb00aa7f99791dd89.jpg"
 
 
 yuriko = "✧ үυяιкσ x sραм 𝗛𝗲𝗿𝗲 ✧\n\n"
@@ -123,7 +123,7 @@ async def alive(event):
    
 # help
 
-HELP_PIC = "https://telegra.ph/file/5f119690b8ad57b0cae94.jpg"
+HELP_PIC = "https://telegra.ph/file/f654fb00aa7f99791dd89.jpg"
 
 YurikoX = "🔥 үυяιкσ x sραм 🔥\n\n"
  
@@ -145,7 +145,7 @@ YurikoX += f" 𝙳𝙼 / 𝙴𝚌𝚑𝚘 𝙲𝚖𝚍𝚜 \n\n"
 
 YurikoX += f" `.dm` - `.dmraid` - `.dmspam` \n\n `.addecho` - `.rmecho` \n\n"
 
-YurikoX += f"All Cmds Uploaded : [•HERE•](https://t.me/Resourcez/4) \n\n"
+YurikoX += f"All Cmds Uploaded : [•HERE•](https://t.me/Yurikocommands/2) \n\n"
  
 YurikoX += f"© @YurikoXSpam | @YurikoXSpamgod\n"
 
