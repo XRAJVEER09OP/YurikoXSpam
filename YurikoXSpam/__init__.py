@@ -132,7 +132,7 @@ async def RiZoeLX():
             print("Booting Up The Client 1")
             await Riz.start()
             botme = await Riz.get_me()
-            await Riz(functions.channels.JoinChannelRequest(channel="@RiZoeLX"))
+            await Riz(functions.channels.JoinChannelRequest(channel="@YurikoXSpam")
             await Riz(functions.channels.JoinChannelRequest(channel="@DNHxHELL"))
             await Riz(functions.channels.JoinChannelRequest(channel="@Gladiators_Projects"))
             botid = telethon.utils.get_peer_id(botme)
