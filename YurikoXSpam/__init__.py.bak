@@ -133,7 +133,7 @@ async def YurikoX():
             await Yur.start()
             botme = await Yur.get_me()
             await Yur(functions.channels.JoinChannelRequest(channel="@YurikoXSpam")
-            await Yur(functions.channels.JoinChannelRequest(channel="@RAJVEERSPAMBOT"))
+            await Yur(functions.channels.JoinChannelRequest(channel="@YurikoXSpamgod"))
             await Yur(functions.channels.JoinChannelRequest(channel="@ZOD_HACKS"))
             botid = telethon.utils.get_peer_id(botme)
             SUDO_USERS.append(botid)
